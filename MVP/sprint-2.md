@@ -35,10 +35,10 @@ Desenvolvimento de um dashboard interativo no Power BI alimentado por uma base d
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US3 | Como um Tomador de Decisões Públicas, quero visualizar métricas de movimentação de cargas em nível nacional, para identificar disparidades regionais e necessidades de infraestrutura.         | Alta       | 8 pontos   |
-| US4 | Como um Tomador de Decisões Públicas, quero identificar as principais cargas perigosas e especiais movimentadas, para formular políticas de segurança e fiscalização mais assertivas.         | Alta      | 8 pontos   |
-| US5 | Como um Tomador de Decisões Públicas, quero analisar os principais modais de transporte utilizados para essas cargas, para otimizar a matriz logística e reduzir riscos ambientais.         | Alta      | 6 pontos   |
-| US6 | Como um Tomador de Decisões Públicas, quero visualizar a Matriz Origem-Destino (OD) das cargas, para compreender o fluxo logístico e o impacto do comércio exterior nos municípios.         | Alta      | 8 pontos   |
+| US3 | Como um Tomador de Decisões Públicas, quero visualizar métricas de movimentação de cargas em nível nacional, para identificar disparidades regionais e necessidades de infraestrutura.         | Alta       | 8 horas   |
+| US4 | Como um Tomador de Decisões Públicas, quero identificar as principais cargas perigosas e especiais movimentadas, para formular políticas de segurança e fiscalização mais assertivas.         | Alta      | 8 horas   |
+| US5 | Como um Tomador de Decisões Públicas, quero analisar os principais modais de transporte utilizados para essas cargas, para otimizar a matriz logística e reduzir riscos ambientais.         | Alta      | 6 horas   |
+| US6 | Como um Tomador de Decisões Públicas, quero visualizar a Matriz Origem-Destino (OD) das cargas, para compreender o fluxo logístico e o impacto do comércio exterior nos municípios.         | Alta      | 8 horas   |
 
 
 
