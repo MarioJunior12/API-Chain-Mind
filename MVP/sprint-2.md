@@ -1,6 +1,6 @@
 
 
-# 📌 Sprint 1 - [Dashboard de Fluxo de Cargas Especiais e Perigosas]
+# 📌 Sprint 2 - [Dashboard de Fluxo de Cargas Especiais e Perigosas]
 
 ## 🎯 Objetivo do MVP  
 O propósito deste MVP é fornecer uma ferramenta de inteligência de dados voltada ao monitoramento logístico de cargas perigosas e especiais.
