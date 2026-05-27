@@ -77,7 +77,12 @@ Desenvolvimento de um dashboard interativo no Power BI alimentado por uma base d
 - Requisitos do Cliente 
 - Prints/Protótipos do Dashboard (Power BI). (https://drive.google.com/file/d/1jX4SIoGkHoCGwMp0qMg23IijD-8vGCd2/view?usp=drive_link)
 - Repositório GitHub
-- Power BI 
+- Power BI <td align="center"><video src="https://github.com/user-attachments/assets/5b470f25-ee60-44c5-a024-789f364e7405"></video></td>
+
+
+
+
+
 
 
 
