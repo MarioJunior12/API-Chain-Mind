@@ -30,8 +30,8 @@ Desenvolvimento de um dashboard interativo no Power BI, alimentado por uma base 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como um Tomador de Decisões Públicas, quero acessar os dados brutos do IBAMA devidamente limpos e normalizados em Python, para garantir análises confiáveis.         | Alta       | 8 pontos   |
-| US2 | Como um Tomador de Decisões Públicas, quero visualizar métricas de movimentação de cargas no estado de São Paulo, para identificar necessidades de infraestrutura.         | Alta      | 5 pontos   |
+| US1 | Como um Tomador de Decisões Públicas, quero acessar os dados brutos do IBAMA devidamente limpos e normalizados em Python, para garantir análises confiáveis.         | Alta       | 8 horas   |
+| US2 | Como um Tomador de Decisões Públicas, quero visualizar métricas de movimentação de cargas no estado de São Paulo, para identificar necessidades de infraestrutura.         | Alta      | 5 horas   |
 
 
 ## 📅 Sprint(s) Relacionadas
