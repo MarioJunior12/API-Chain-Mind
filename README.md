@@ -38,6 +38,11 @@ O objetivo deste projeto é desenvolver uma ferramenta de Business Intelligence 
 | 8    | Alta       | Como um Tomador de Decisões Públicas, quero identificar as principais empresas movimentadoras de cargas perigosas, para monitorar o cumprimento das normas ambientais e de registro (RAPP). | 8                  | A fazer        | 3      |
 | 9    | Alta       |  Como um Tomador de Decisões Públicas, quero uma interface intuitiva e responsiva no Power BI, para que as informações técnicas sejam acessíveis a diferentes níveis da gestão pública com poucos cliques. | 6                  | A fazer        | 4      |
 
+## Tecnologias Utilizadas
+- Power BI
+- Microsoft Excel
+- Python (Colab)
+- Canva
 
 ## Competências desenvolvidas
 - Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.)  
