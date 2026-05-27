@@ -75,7 +75,7 @@ Desenvolvimento de um dashboard interativo no Power BI alimentado por uma base d
 
 ## 📂 Anexos / Evidências
 - Requisitos do Cliente 
-- Prints/Protótipos do Dashboard (Power BI). (https://drive.google.com/file/d/1jX4SIoGkHoCGwMp0qMg23IijD-8vGCd2/view?usp=drive_link)
+- Prints/Protótipos do Dashboard (Power BI). (https://drive.google.com/file/d/1riCB6zpeO-aiJbT5ORcKAvQc11yySdmt/view?usp=drive_link)
 - Repositório GitHub
 - Power BI <td align="center"><video src="https://github.com/user-attachments/assets/5b470f25-ee60-44c5-a024-789f364e7405"></video></td>
 - Limpeza de Dados Phyton <td align="center"><video src="https://github.com/user-attachments/assets/64234f99-a9b7-49ef-9858-ec3ea868e59a"></video></td> 
