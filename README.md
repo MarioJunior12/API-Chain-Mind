@@ -17,11 +17,11 @@ O objetivo deste projeto é desenvolver uma ferramenta de Business Intelligence 
 | Função        | Nome    |  GitHub |
 |---------------|---------|-------------------|
 | Product Owner | Maria Clara Demetrio dos Santos | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mariademet/)  |
-| Scrum Master  | Mário de Oliveira Silva Júnior | [GitHub](https://github.com/MarioJunior12) |
-| Team Member   | Lucas Fernando Luciano Serafim |  [GitHub](https://github.com/LucasFLSerafim) |
-| Team Member   | Gabriela Souza |  [GitHub](https://github.com/GabrielaSouzaOiveira) |
-| Team Member   | Ana Beatriz Chiavini |  [GitHub](https://github.com/anachiavini) |
-| Team Member   | João Vitor Overas |  [GitHub](https://github.com/CrawS2) |
+| Scrum Master  | Mário de Oliveira Silva Júnior | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarioJunior12) |
+| Team Member   | Lucas Fernando Luciano Serafim |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasFLSerafim) |
+| Team Member   | Gabriela Souza |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielaSouzaOiveira) |
+| Team Member   | Ana Beatriz Chiavini |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anachiavini) |
+| Team Member   | João Vitor Overas |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CrawS2) |
 
 
 ## Product Backlog 
