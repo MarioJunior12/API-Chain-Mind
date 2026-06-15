@@ -34,9 +34,9 @@ O objetivo deste projeto é desenvolver uma ferramenta de Business Intelligence 
 | 4    | Alta       | 	Como um Tomador de Decisões Públicas, quero identificar as principais cargas perigosas e especiais movimentadas, para formular políticas de segurança e fiscalização mais assertivas. | 8                  | Concluído | 2      |
 | 5    | Alta      | Como um Tomador de Decisões Públicas, quero analisar os principais modais de transporte utilizados para essas cargas, para otimizar a matriz logística e reduzir riscos ambientais. | 6                  | Concluído | 2      |
 | 6    | Alta      | Como um Tomador de Decisões Públicas, quero visualizar a Matriz Origem-Destino (OD) das cargas, para compreender o fluxo logístico e o impacto do comércio exterior nos municípios. | 8                  | Concluído | 2      |
-| 7    | Alta       | Como um Tomador de Decisões Públicas, quero acompanhar a evolução histórica da movimentação (2013-2025) através de gráficos de tendência, para prever demandas futuras e avaliar o impacto de políticas passadas. | 6                  | A fazer        | 3      |
-| 8    | Alta       | Como um Tomador de Decisões Públicas, quero identificar as principais empresas movimentadoras de cargas perigosas, para monitorar o cumprimento das normas ambientais e de registro (RAPP). | 8                  | A fazer        | 3      |
-| 9    | Alta       |  Como um Tomador de Decisões Públicas, quero uma interface intuitiva e responsiva no Power BI, para que as informações técnicas sejam acessíveis a diferentes níveis da gestão pública com poucos cliques. | 6                  | A fazer        | 4      |
+| 7    | Alta       | Como um Tomador de Decisões Públicas, quero acompanhar a evolução histórica da movimentação (2013-2025) através de gráficos de tendência, para prever demandas futuras e avaliar o impacto de políticas passadas. | 6                  | Concluído        | 3      |
+| 8    | Alta       | Como um Tomador de Decisões Públicas, quero identificar as principais empresas movimentadoras de cargas perigosas, para monitorar o cumprimento das normas ambientais e de registro (RAPP). | 8                  | Concluído        | 3      |
+| 9    | Alta       |  Como um Tomador de Decisões Públicas, quero uma interface intuitiva e responsiva no Power BI, para que as informações técnicas sejam acessíveis a diferentes níveis da gestão pública com poucos cliques. | 6                  | Concluído        | 4      |
 
 ## Tecnologias Utilizadas
 - Power BI
