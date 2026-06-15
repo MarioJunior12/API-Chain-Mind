@@ -1,8 +1,8 @@
-# 📌 Sprint 2 - [Dashboard de Fluxo de Cargas Especiais e Perigosas]
+# 📌 Sprint 3 - [Dashboard Final de Fluxo de Cargas Especiais e Perigosas]
 
 ## 🎯 Objetivo do MVP  
 O propósito deste MVP é fornecer uma ferramenta de inteligência de dados voltada ao monitoramento logístico de cargas perigosas e especiais.
-- Qual problema resolve? carência de mecanismos de análise de tendência histórica a longo prazo e a falta de visibilidade imediata das empresas que operam à margem das exigências de planos de emergência ambientais, gerando vulnerabilidade para a fiscalização técnica e ambiental.  
+- Qual problema resolve? A carência de mecanismos de análise de tendência histórica a longo prazo e a falta de visibilidade imediata das empresas que operam à margem das exigências de planos de emergência ambientais, gerando vulnerabilidade para a fiscalização técnica e ambiental.  
 - Qual hipótese será validada? A hipótese de que a inclusão de gráficos de tendência plurianual combinados com o rastreamento individual do perfil de conformidade das empresas permite prever demandas futuras e direcionar ações de fiscalização preventiva de forma mais eficiente. 
 - Qual valor será entregue ao usuário final? Um diagnóstico preditivo e acionável que integra regularidade técnica das frotas corporativas, identificação direta dos maiores transportadores logísticos do mercado e projeção histórica de volumes e operações.
 ---
@@ -33,28 +33,27 @@ Desenvolvimento de um dashboard interativo no Power BI alimentado por uma base d
 | US7 |  Como um Tomador de Decisões Públicas, quero acompanhar a evolução histórica da movimentação (2013-2025) através de gráficos de tendência, para prever demandas futuras e avaliar o impacto de políticas passadas.         | Alta       | 8 horas   |
 | US8 |  Como um Tomador de Decisões Públicas, quero identificar as principais cargas perigosas e especiais movimentadas, para formular políticas de segurança e fiscalização mais assertivas.         | Alta      | 8 horas   |
 | US9 | Como um Tomador de Decisões Públicas, quero analisar os principais modais de transporte utilizados para essas cargas, para otimizar a matriz logística e reduzir riscos ambientais.         | Alta      | 6 horas   |
-| US6 | Como um Tomador de Decisões Públicas, quero visualizar a Matriz Origem-Destino (OD) das cargas, para compreender o fluxo logístico e o impacto do comércio exterior nos municípios.         | Alta      | 8 horas   |
 
 
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | ETL em Python (Limpeza/Normalização) e Métricas de SP                      | Concluído|
-| 02     | Métricas Nacionais, Filtros de Modais e Tipos de Carga, Matriz Origem-Destino                  | Concluído |
-| 03     | Evolução Histórica e Registro RAPP                           | Planejado |
+| 01     | Extração, tratamento, limpeza e normalização da base de dados brutos utilizando Python; Estruturação inicial das primeiras métricas de movimentação no Estado de São Paulo.                      | Concluído|
+| 02     | Implementação de análises de abrangência nacional, desenvolvimento da matriz Origem-Destino municipal, visualização do painel específico de transporte por modais e geração dos mapas de rotas geográficas interativas.                  | Concluído |
+| 03     | Finalização do painel de evolução histórica e tendências, consolidação dos indicadores de regularidade de plano de emergência e perfil corporativo das empresas, e refinamento de usabilidade e responsividade no Power BI.                           | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O dashboard deve permitir que o usuário navegue entre as visões ("Transporte e Armazenagem", "Movimentação Anual", "Situação das Empresas", "Situação Municipal", "Movimentação por Modais" e "Mapa de Rotas") a partir de uma tela inicial interativa.
-- O sistema deve filtrar instantaneamente todos os gráficos ao selecionar um ano específico no painel lateral.
-- Os mapas devem exibir visualmente a espessura ou fluxo das rotas conforme o volume de operações ou gigalitros (GL) transportados.
+- O sistema deve permitir visualizar o percentual exato de empresas ativas/encerradas e a proporção de conformidade com planos de emergência de risco ambiental.
+- O painel de tendências deve plotar de forma clara os pontos históricos de desacompanhamento das curvas operacionais e de gigalitros certificados.
+- A interface unificada deve garantir o acesso a qualquer um dos painéis analíticos com apenas um clique a partir do menu da página inicial.
 
 ---
 
 ## 📈 Métricas de Validação
-- Taxa de cliques na navegação: Verificar se os usuários conseguem alternar entre os menus sem dificuldades (UX).
+- Taxa de cliques na navegação: Verificar se os usuários conseguem alternar entre os menus sem dificuldades.
 - Tempo de resposta do relatório: Medir o tempo de renderização dos mapas e gráficos volumosos ao alternar os filtros de anos/municípios.
 - Indicadores de negócio:
 % de adesão ao uso do painel em sala de aula.
