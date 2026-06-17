@@ -70,7 +70,7 @@ Desenvolvimento de um dashboard interativo no Power BI alimentado por uma base d
 ## 📂 Anexos / Evidências
 - Requisitos do Cliente 
 - Prints/Protótipos do Dashboard
-- Link drive Power Bi (https://drive.google.com/file/d/1riCB6zpeO-aiJbT5ORcKAvQc11yySdmt/view?usp=drive_link)
+- Link drive Power Bi (https://drive.google.com/file/d/1H01ACd8xwLwz6-7bD5dKEJ4URNBPqNVb/view?usp=sharing)
 - Vídeo Sprint 3 (https://www.youtube.com/watch?v=AiWCyTbxb5A)
 - Repositório GitHub
 - Power BI <td align="center"><video src="https://github.com/user-attachments/assets/7732ce29-ab4a-46af-a827-a6e6492f65bd"></video></td>
