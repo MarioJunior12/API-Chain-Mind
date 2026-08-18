@@ -59,7 +59,7 @@ O objetivo deste projeto é desenvolver uma ferramenta de Business Intelligence 
 | 01                | 23/04/2026 | Concluído  | [MVP](https://github.com/mariademet/API-Chain-Mind/blob/main/MVP/sprint-1.md)  |
 | 02                | 28/05/2026 | Concluído  | [MVP](https://github.com/mariademet/API-Chain-Mind/blob/main/MVP/sprint-2.md)  |
 | 03                | 18/06/2026 | Concluído  | [MVP](https://github.com/mariademet/API-Chain-Mind/blob/main/MVP/sprint-3.md)  |
-| Feira de Soluções | 25/06/2026 | Em andamento  | [MVP](MVP)  |
+| Feira de Soluções | 25/06/2026 | Concluído  | [MVP](MVP)  |
 
 
 
